@@ -1,7 +1,36 @@
 # Resources
 
 
-## R Libraries
+## R Packages
+
+### Documents  
+[tidytex](https://yihui.name/tinytex/) - LaTeX Distribution
+[blogdown](https://github.com/rstudio/blogdown) - Blogs and websites w/ markdown
+
+### Pipes
+[magrittr](https://github.com/smbache/magrittr) - Fancy pipes
+
+### Data
+[dplyr](https://github.com/hadley/dplyr) 
+[data.table]
+[readr]
+[tidyr]
+[lubridate]
+[tidyverse]
+
+### Machine Learning
+[AnomalyDetection](https://github.com/twitter/AnomalyDetection)  
+[bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - Big Random Forests for large data sets  
+[caret](http://cran.r-project.org/web/packages/caret/index.html) - Classification And REgression Training
+[GMMBoost](https://cran.r-project.org/web/packages/GMMBoost/index.html) - Likelihood-based boosting for generalized mixed models  
+[gbm](http://cran.r-project.org/web/packages/gbm/index.html) - Generalized boosted regression models  
+
+
+
+
+
+
+
 
 ## R Websites
 [R Graph Gallery](https://www.r-graph-gallery.com/)
